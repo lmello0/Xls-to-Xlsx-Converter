@@ -4,5 +4,4 @@ I made this project to convert xls files to xlsx because it's more compact. Just
 
 ## THE PROGRAM
 
-![Program Working][arquivo]
-[arquivo]: https://media.giphy.com/media/SivkzlhJ8pc1TBb6Gl/giphy.gif
+![Program Working] (https://media.giphy.com/media/SivkzlhJ8pc1TBb6Gl/giphy.gif)
